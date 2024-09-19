@@ -1,24 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Abdelhady</h1>
-<h3 align="center">Beginner programmer seeking continuous learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdelhaady" alt="3bdelhaady" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=30F74B&center=true&vCenter=true&width=1200&height=300&lines=Hello+World!;My+name+is+Abdelrahman.;Computer+Science+%26+AI+major+at+South+Valley+National+University.;I'm+a+passionate+Front-End+developer.;I'm+a+problem+solver+%26+competitive+programmer.;ECPC+finalist.;On+a+journey+of+continuous+improvement...;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-- 📫 How to reach me: **mahmoudabdelhady102@gmail.com**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=3bdo-yahya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdo-yahya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=3bdo-yahya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@aodpoo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aodpoo1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/3bdelhady-4926432a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bdelhady-4926432a4" height="30" width="40" /></a>
-<a href="https://fb.com/php?id=100026249209012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="php?id=100026249209012" height="30" width="40" /></a>
-<a href="https://instagram.com/ma7m0ud_3bdelhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ma7m0ud_3bdelhady" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/3bdelhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="3bdelhady" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/3bdelhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3bdelhady" height="30" width="40" /></a>
-<a href="https://discord.gg/3bdelhady_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3bdelhady_" height="30" width="40" /></a>
-</p>
+###
+<!--
+<h2 align="center">
+  Fullstack Developer
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdelhaady&show_icons=true&locale=en&layout=compact" alt="3bdelhaady" /></p>
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdelhaady&" alt="3bdelhaady" /></p>
+  <!--
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    
+<h2 align="center">
+  Problem-Solving
+</h2>
+    
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=A.Rhman.Yahya)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/A-Rhman-Yahya?theme=auto&font=baloo&extension=null)
+  
+
+  </div>
+-->
+
+<!--
+  ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/3bdo-yahya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo-yahya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/3bdo-yahya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdo-yahya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+-->
+
+
+
+
+<!--
+## Hi there 👋
+
+<!--
+**3bdo-Yahya/3bdo-yahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
