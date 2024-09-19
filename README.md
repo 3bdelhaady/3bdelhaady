@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#32CD32; transition: color 0.5s;">Mahmoud Abdelhady</span></h1>
+<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">
+  <span style="color:#32CD32; padding: 10px; font-size: 2.5em; display: inline-block; border-bottom: 2px solid #32CD32; animation: typing 3s steps(20, end), blink-caret .5s step-end infinite;">
+    Mahmoud Abdelhady
+  </span>
+</h1>
 <h3 align="center">A beginner programmer with a passion for continuous learning and innovation</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=3bdelhaady" alt="3bdelhaady" />
+        <img src="https://github-profile-trophy.vercel.app/?username=3bdelhaady" alt="3bdelhaady" style="padding-bottom: 20px;" />
     </a> 
 </p>
 
@@ -42,3 +47,15 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdelhaady&" alt="3bdelhaady" />
 </p>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #32CD32; }
+}
+</style>
