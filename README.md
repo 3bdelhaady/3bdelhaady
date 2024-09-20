@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=08F700&width=435&lines=Hello+world+!;My+name+is+Mahmoud+Abdelhady;I+study+computer+science;Passionate+about+front-end;I+have+worked+on+solutions+based+on+the+safe+use+of+%D9%90AI;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=08F700&width=435&lines=Hello+world+!;My+name+is+Mahmoud+Abdelhady;I+study+computer+science;Passionate+about+front-end;Nice+to+meet+you)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Arment, Luxor, Egypt
