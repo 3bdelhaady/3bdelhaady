@@ -30,7 +30,7 @@
 
 
 	
-## 🐍 A Snake Eating My Contributions Graph
+## 🐍 Green snake
 
 <p align="center">
 	<picture>
