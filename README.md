@@ -27,3 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=3bdelhaady&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdelhaady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="165" alt="languages graph"  />
 </div>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/3bdelhaady/3bdelhaady/output/snake.svg" alt="Snake animation" />
