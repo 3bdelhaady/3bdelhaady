@@ -5,6 +5,11 @@
 * ✉️  You can contact me at [mahmoudabdelhady102@gmail.com](mailto:mahmoudabdelhady102@gmail.com)
 * ⚡  I enjoy spending my free time solving problems and improving my skills.
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdelhaady" alt="3bdelhaady" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ### Skills
 
 <p align="left">
