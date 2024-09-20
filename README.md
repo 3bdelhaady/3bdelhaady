@@ -1,5 +1,4 @@
-Hi.! My name is Mahmoud Abdelhady
-=========================================================================================================================================
+<h1 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Mahmoud Abdelhady</h1>
 
 a computer science student at SVNU, passionate about front-end development, AI & PS , I have worked with POOL-AI on solutions based on the safe use of AI
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
